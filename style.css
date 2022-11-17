@@ -137,7 +137,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: #ff5100;
+    color: white;
 }
 
 .d-bloc .a-btn:hover,
@@ -709,7 +709,7 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
-    color: #ff5100;
+    color: white;
 }
 
 h2 {
@@ -779,7 +779,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: white;
+    background-color: #ff5100;
 }
 
 .tc-white {
